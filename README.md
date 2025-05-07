@@ -14,4 +14,6 @@ Hay muchas cosas que se puede hacer en la página web
 
 •y demás, pueden explorar la página y descubrir otras funcionalidades.
 
+Link a la página web --> https://davogreg12.github.io/practica2_Chocolibros/
+
 (Iré actualizando cada cierto tiempo la página para agregar más funciones y secretos, realmente disfruté mucho haciendo todo de esta página!)
